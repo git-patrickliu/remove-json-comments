@@ -1,0 +1,10 @@
+{
+  /**
+   * this is slash wildcard comment
+   * // this is mixed comment
+   hahaha
+   */
+  "hello": "world"
+
+  /* hahahha */
+}
