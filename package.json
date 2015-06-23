@@ -1,0 +1,23 @@
+{
+  "name": "remove-json-comments",
+  "version": "1.0.0",
+  "description": "A way to remove comments in json string making it parsable by JSON.parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/git-patrickliu/remove-json-comments.git"
+  },
+  "keywords": [
+    "JSON",
+    "comments"
+  ],
+  "author": "liupeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-patrickliu/remove-json-comments/issues"
+  },
+  "homepage": "https://github.com/git-patrickliu/remove-json-comments"
+}
